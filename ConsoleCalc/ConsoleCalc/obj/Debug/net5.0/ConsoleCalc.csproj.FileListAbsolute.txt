@@ -1,0 +1,16 @@
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\obj\Debug\net5.0\ConsoleCalc.csproj.AssemblyReference.cache
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\obj\Debug\net5.0\ConsoleCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\obj\Debug\net5.0\ConsoleCalc.AssemblyInfoInputs.cache
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\obj\Debug\net5.0\ConsoleCalc.AssemblyInfo.cs
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\obj\Debug\net5.0\ConsoleCalc.csproj.CoreCompileInputs.cache
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\bin\Debug\net5.0\ConsoleCalc.exe
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\bin\Debug\net5.0\ConsoleCalc.deps.json
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\bin\Debug\net5.0\ConsoleCalc.runtimeconfig.json
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\bin\Debug\net5.0\ConsoleCalc.runtimeconfig.dev.json
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\bin\Debug\net5.0\ConsoleCalc.dll
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\bin\Debug\net5.0\ref\ConsoleCalc.dll
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\bin\Debug\net5.0\ConsoleCalc.pdb
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\obj\Debug\net5.0\ConsoleCalc.dll
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\obj\Debug\net5.0\ref\ConsoleCalc.dll
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\obj\Debug\net5.0\ConsoleCalc.pdb
+C:\Users\erwoodle\Documents\ConsoleCalc\ConsoleCalc\ConsoleCalc\obj\Debug\net5.0\ConsoleCalc.genruntimeconfig.cache
