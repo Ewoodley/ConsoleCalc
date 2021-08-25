@@ -8,23 +8,34 @@ namespace ConsoleCalc
 
         static void Main(string[] args)
         {
-
             int num1 = 0;
             int num2 = 0;
-                   
-            Console.WriteLine("Welcome to the Console Calculator\n Please enter your first number:");
-            num1 = Convert.ToInt32(Console.ReadLine());
+            
+                Console.WriteLine("Welcome to the Console Calculator\n Please enter your first number:");
+                num1 = Convert.ToInt32(Console.ReadLine());
+               /* if (Int32.TryParse(Console.ReadLine(), out num1))
+                {
+                    Console.WriteLine("You did not enter a valid number, please enter a number");
+                    
+                }*/
+                Console.WriteLine("Please enter your second number");
+                num2 = Convert.ToInt32(Console.ReadLine());
+                /*if (Int32.TryParse(Console.ReadLine(), out num2))
+                {
+                    Console.WriteLine("You did not enter a valid number, please enter a number");
+                    
+                }*/
+            
+           
 
-            Console.WriteLine("Please enter your second number");
-            num2 = Convert.ToInt32(Console.ReadLine());
 
-
-            Console.WriteLine("Please enter your operand");
+                Console.WriteLine("Please enter your operand");
                 Console.WriteLine("Add for Addition");
                 Console.WriteLine("Sub for Subtraction");
                 Console.WriteLine("Mul for Multiply");
                 Console.WriteLine("Div for Divide");
-
+            
+            
             switch (Console.ReadLine())
             {
                 case "Add":
